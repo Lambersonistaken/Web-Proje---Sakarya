@@ -223,3 +223,34 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 #slayt2{
     margin-right: 450px;
 }
+
+#başlık{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+#resim1{
+    width: 375px;
+    height: auto;
+}
+
+#resim2{
+    width: 375px;
+    height: auto;
+}
+#resim3{
+    width: 375px;
+    height: 235px;
+}
+#resim4{
+    width: 375px;
+    height: 235px;
+}
+
+#video{
+    margin-left: 500px;
+    margin-top: 200px;
+
+}
